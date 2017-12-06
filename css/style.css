@@ -193,13 +193,4 @@ footer{
     margin-top:40px;
   }
 
-  #newsletter button, .quote button{
-    display:block;
-    width:100%;
-  }
-
-  #newsletter form input[type="email"], .quote input, .quote textarea{
-    width:100%;
-    margin-bottom:5px;
-  }
-}
+ 
