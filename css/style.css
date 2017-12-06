@@ -29,7 +29,7 @@ ul{
 .dark{
   padding:15px;
   background:#35424a;
-  color:#ffffff;
+  color:#03021c;
   margin-top:10px;
   margin-bottom:10px;
 }
@@ -70,7 +70,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#03021c;
   font-weight:bold;
 }
 
